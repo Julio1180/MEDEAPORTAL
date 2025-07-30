@@ -182,7 +182,7 @@ npm run db:push  # Aplicar cambios de esquema DB
 ## URL de Despliegue
 
 La aplicación está desplegada y funcionando en Replit:
-**URL**: https://tu-replit-url.replit.app
+**URL**:https://medea-portal-hello890.replit.app
 
 ## Estimación de Tiempo
 
